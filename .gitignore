@@ -1,0 +1,13 @@
+# Vercel local metadata
+.vercel/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Optional local development dependencies and environment files
+node_modules/
+.env
+.env.*
+!.env.example
